@@ -3,7 +3,7 @@
   <channel>
     <title>Programming Oddities</title>
     <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://shethchintan7.github.io/tags/info/</link>
+    <link>https://shethchintan7.github.io/tags/info/</link>
     <language>en-us</language>
     <author>Chintan Sheth</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>About</title>
-      <link>http://shethchintan7.github.io/about/</link>
+      <link>https://shethchintan7.github.io/about/</link>
       <pubDate>Sat, 03 Sep 2016 17:53:10 &#43;0100</pubDate>
       <author>Chintan Sheth</author>
-      <guid>http://shethchintan7.github.io/about/</guid>
+      <guid>https://shethchintan7.github.io/about/</guid>
       <description>&lt;p&gt;Chintan&lt;/p&gt;
 </description>
     </item>
